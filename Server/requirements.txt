@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 pydantic
+pydantic_settings
 python-multipart
 opencv-python
 numpy
@@ -9,11 +10,13 @@ ultralytics
 torch
 torchvision
 open-clip-torch
-open-clip-torch
 qdrant-client
 python-dotenv
+sqlalchemy
+psycopg2-binary
 neo4j
 anyio
 spacy
 httpx
 rich
+loguru
